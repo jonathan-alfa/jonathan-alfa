@@ -1,7 +1,7 @@
 # Hi there, I'm Jonathan Alfa Grace Juliantio! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Informatics+Engineering+Student;AI+Engineer+Enthusiast;Web+Developer+(Laravel);Vice+Chairman+of+DEPTICS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Informatics+Engineering+Student;Cohort+AI+Engineer+at+Coding+Camp+By+Dbs+Foundation;AI+Engineer+Enthusias;Web+Developer+(PHP+Laravel);Vice+Chairman+of+DEPTICS" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,7 +15,7 @@ Beyond coding, I lead as the **Vice Chairman of DEPTICS** (Informatics Engineeri
 - 🔭 I’m currently working on **AI-driven solutions and Laravel-based web apps**.
 - 🌱 I’m learning **Advanced Python, Machine Learning, and Deep Learning**.
 - 👯 I’m looking to collaborate on **Open Source projects and Tech Leadership initiatives**.
-- ⚡ Fun fact: When I'm not coding, I'm behind the drums hitting some **Groove & Progressive Metal** beats with my band, **Pararel**. 🥁
+- ⚡ Fun fact: When I'm not coding, I'm behind the drums hitting some **Groove & Progressive Metal**
 
 ---
 
@@ -52,7 +52,7 @@ Beyond coding, I lead as the **Vice Chairman of DEPTICS** (Informatics Engineeri
 
 <p align="left">
 <a href="https://www.linkedin.com/in/jonathan-alfa-grace-juliantio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jonathan Alfa Grace Juliantio" height="30" width="40" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="your-email@example.com" height="30" width="40" /></a>
+<a href="jonathanalfa20@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="your-email@example.com" height="30" width="40" /></a>
 </p>
 
 ---
