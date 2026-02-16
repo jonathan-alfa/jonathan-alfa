@@ -1,7 +1,7 @@
 # Hi there, I'm Jonathan Alfa Grace Juliantio! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Informatics+Engineering+Student;Cohort+AI+Engineer+at+Coding+Camp+By+Dbs+Foundation;AI+Engineer+Enthusias;Web+Developer+(PHP+Laravel);Vice+Chairman+of+DEPTICS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Informatics+Engineering+Student;Cohort+AI+Engineer+at+Coding+Camp+By+Dbs+Foundation;AI+Engineer+Enthusias;Web+Developer+(PHP+Laravel);Vice+Chairman+of+DEPTICS" alt="Typing SVG" />
 </p>
 
 ---
